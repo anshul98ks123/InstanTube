@@ -1,5 +1,5 @@
 # InstanTube
-Instant Youtube Search App - First SPA using React. Refreshes have been throttled to 300ms.__
+Instant Youtube Search App - First SPA using React. Refreshes have been throttled to 300ms.  
 Demo link: http://instantube.bitballoon.com
 
 ## Features
